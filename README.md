@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Shimada Serete, apaixonado na tecnologia e programação!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz)](https://github.com/shimarrudz/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=cobalt)
 
 
