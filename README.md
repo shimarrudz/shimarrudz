@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=merko)
 
 
 <div style="display: inline_block"><br>
