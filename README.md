@@ -1,4 +1,4 @@
-## Olá! Eu sou o Victor Shimada Serete, apaixonado na tecnologia e programação!
+## Olá! Eu sou o Victor Shimada Serete, apaixonado por tecnologia e programação!
 
 
 
