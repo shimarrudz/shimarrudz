@@ -3,7 +3,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=radical)
-<img align="right" alt="Victor-pic" height="250" style="border-radius:100px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fbackend-developer.html&psig=AOvVaw1utWhQdv5Oo6cirHV1HCN8&ust=1683309575197000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDL0f2e3P4CFQAAAAAdAAAAABAD">
+<img align="right" alt="Victor-pic" height="250" style="border-radius:100px;" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fbackend-developer.html&psig=AOvVaw1utWhQdv5Oo6cirHV1HCN8&ust=1683309575197000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDL0f2e3P4CFQAAAAAdAAAAABAD](https://thumbs.dreamstime.com/b/software-developer-does-php-coding-software-developer-does-php-coding-programmer-doing-web-backend-coding-245458939.jpg)">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
