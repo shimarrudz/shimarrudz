@@ -19,7 +19,8 @@
 
 </div>
 
-<img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="[https://media.licdn.com/dms/image/D4D03AQFndoBBqA4Mpg/profile-displayphoto-shrink_400_400/0/1665428258816?e=1688601600&v=beta&t=vlq5gZ6SnxdbdSzjt9NeOm8wLJpvmwZpXYYJRzPcNcU](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)">
+<img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+
   
   ##
  
