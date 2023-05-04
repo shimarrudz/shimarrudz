@@ -4,7 +4,7 @@
 
 ![Victor Shimada GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&layout=compact&theme=radical)](https://github.com/shimarrudz/github-readme-stats)
-<img align="right" alt="Victor-pic" height="190" style="border-radius:100px;" src="https://media.licdn.com/dms/image/D4D03AQFndoBBqA4Mpg/profile-displayphoto-shrink_400_400/0/1665428258816?e=1688601600&v=beta&t=vlq5gZ6SnxdbdSzjt9NeOm8wLJpvmwZpXYYJRzPcNcU">
+
 
 
 
@@ -18,6 +18,8 @@
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
 </div>
+
+<img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="[https://media.licdn.com/dms/image/D4D03AQFndoBBqA4Mpg/profile-displayphoto-shrink_400_400/0/1665428258816?e=1688601600&v=beta&t=vlq5gZ6SnxdbdSzjt9NeOm8wLJpvmwZpXYYJRzPcNcU](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)">
   
   ##
  
