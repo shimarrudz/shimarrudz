@@ -23,3 +23,6 @@
 </div>
 
 
+![Snake animation](https://github.com/shimarrudz/shimarrudz/blob/output/github-contribution-grid-snake.svg)
+
+
