@@ -21,7 +21,3 @@
   <a href="https://www.linkedin.com/in/victor-shimada/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-
-// <img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-
