@@ -13,7 +13,7 @@
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
