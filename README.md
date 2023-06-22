@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Shimada Serete, apaixonado por tecnologia e programação!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&layout=compact&theme=radical)](https://github.com/shimarrudz/github-readme-stats)
-<img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+// <img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 ![Victor Shimada GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
 </div>
 
 
-![Snake animation](https://github.com/shimarrudz/shimarrudz/blob/output/github-contribution-grid-snake.svg)
+// ![Snake animation](https://github.com/shimarrudz/shimarrudz/blob/output/github-contribution-grid-snake.svg)
 
 
