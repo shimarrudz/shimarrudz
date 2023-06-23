@@ -1,6 +1,8 @@
 ## Hi there! I am Victor Shimada Serete, passionate about Technology and Programming!
 
 ![Victor Shimada GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&layout=compact&theme=radical)](https://github.com/shimarrudz/github-readme-stats)
+
 
 
 <div style="display: inline_block"><br>
