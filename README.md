@@ -1,11 +1,7 @@
 # Hi there! I'm Victor Shimada Serete, passionate about Technology and Programming! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shimarrudz/shimarrudz/main/assets/naruto_banner.png" alt="Naruto Banner">
-</p>
-
-![Victor Shimada GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=naruto)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&layout=compact&theme=naruto)](https://github.com/shimarrudz/github-readme-stats)
+![Victor Shimada GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&layout=compact&theme=radical)](https://github.com/shimarrudz/github-readme-stats)
 
 ## Skills
 <div style="display: inline_block"><br>
