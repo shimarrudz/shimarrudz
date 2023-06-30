@@ -26,7 +26,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux,flask)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux,flask,eclipse,inteliji,vscode)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
