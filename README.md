@@ -12,11 +12,11 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,sqlite,java,python,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,sqlite,java,python,jest,flask)](https://skillicons.dev)
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,styledcomponents,jest,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,styledcomponents,bootstrap)](https://skillicons.dev)
 
 
 - Tools and Plataforms
