@@ -26,11 +26,6 @@ These are some of the technologies and tools I use:
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
 
 
-| My Streak                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=shimarrudz&theme=radical)](https://git.io/streak-stats) |
-
-
 ## Contact Me
 <div> 
   <a href = "mailto:vic.shima.vss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
