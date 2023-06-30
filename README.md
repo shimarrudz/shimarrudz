@@ -2,8 +2,16 @@
 
 # Hi there! I'm Victor Shimada Serete, passionate about Technology and Programming! 👋
 
-![Victor Shimada GitHub stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&layout=compact&theme=radical)](https://github.com/shimarrudz/github-readme-stats)
+### 📈 My Statistics
+
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
+
+
+| My Streak                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=shimarrudz&theme=jolly)](https://git.io/streak-stats) |
 
 ## Skills
 <div style="display: inline_block"><br>
