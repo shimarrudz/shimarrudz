@@ -2,6 +2,23 @@
 
 # Hi there! I'm Victor Shimada Serete, passionate about Technology and Programming! 👋
 
+
+### ⚡ Technologies:
+
+These are some of the technologies and tools I use:
+
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,styledcomponents,jest,bootstrap)](https://skillicons.dev)
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,sqlite,oraclesql,java,python,)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux)](https://skillicons.dev)
+
 ### 📈 My Statistics
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
