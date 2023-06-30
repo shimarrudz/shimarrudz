@@ -13,7 +13,7 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,sqlite,oracle,java,python,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,sqlite,java,python,)](https://skillicons.dev)
 
 - Tools and Plataforms
 
