@@ -7,7 +7,7 @@
 
 These are some of the technologies and tools I use:
 
-- Front-End
+- Front-EnD
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,styledcomponents,jest,bootstrap)](https://skillicons.dev)
 
