@@ -30,22 +30,6 @@ These are some of the technologies and tools I use:
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=shimarrudz&theme=radical)](https://git.io/streak-stats) |
 
-## Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
-  <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
-</div>
 
 ## Contact Me
 <div> 
