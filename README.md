@@ -11,7 +11,7 @@
 
 | My Streak                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=shimarrudz&theme=jolly)](https://git.io/streak-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=shimarrudz&theme=radical)](https://git.io/streak-stats) |
 
 ## Skills
 <div style="display: inline_block"><br>
