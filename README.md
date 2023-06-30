@@ -3,14 +3,10 @@
 # Hi there! I'm Victor Shimada Serete, passionate about Technology and Programming! 👋
 
 <p>
-  I'm 21 years old, from São Paulo and currently interning as a front-end development at Grupo GCB, specificly at GCB Academy.
+  -I'm 20 years old, from São Paulo and currently interning as a back-end development at Grupo GCB Academy.
+
+  -  Student at FIAP, Alura and Rocketseat.
 </p>
-
-- 🌱 I’m currently studying and improving my skills in typescript, react and react native.
-- 👯 Student at FIAP, Rocketseat and Alura.
-- 📫 How to reach me: guty.vertolis@gmail.com
-
-
 
 ### ⚡ Technologies:
 
