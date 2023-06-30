@@ -6,7 +6,7 @@
   - Student at FIAP, Alura, and Rocketseat.
 
 
-### ⚡ Technologies:
+### :computer: Technologies:
 
 These are some of the technologies and tools I use:
 
