@@ -1,16 +1,10 @@
 # Hi there! I'm Victor Shimada Serete, passionate about Technology and Programming! 👋
 
-🧑‍💻 About Me:
+### :bow: About me: 
+
   - I'm 20 years old, from São Paulo, and currently interning as a back-end developer at Grupo GCB Academy.
   - Student at FIAP, Alura, and Rocketseat.
 
-### :bow: About me: 
-
-<p>
-  -I'm 20 years old, from São Paulo and currently interning as a back-end development at Grupo GCB Academy.
-
-  -  Student at FIAP, Alura and Rocketseat.
-</p>
 
 ### ⚡ Technologies:
 
