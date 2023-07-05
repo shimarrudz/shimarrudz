@@ -8,15 +8,15 @@
 
 ### :computer: Technologies:
 
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux,eclipse,idea,vite,bash)](https://skillicons.dev)
+
 These are some of the technologies and tools I use:
 
 - Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,styledcomponents,bootstrap)](https://skillicons.dev)
-
-- Tools and Plataforms
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux,eclipse,idea,vite,bash)](https://skillicons.dev)
 
 - Back-End
 
