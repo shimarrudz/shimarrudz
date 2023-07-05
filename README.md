@@ -12,7 +12,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,bash,vite,postman,figma,linux,eclipse,idea)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=postman,git,bash,vite,figma,linux,eclipse,idea)](https://skillicons.dev)
 
 - Front-End
 
