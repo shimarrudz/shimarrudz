@@ -8,11 +8,11 @@
 
 ### :computer: Technologies:
 
+These are some of the technologies and tools I use:
+
 - Tools and Plataforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux,eclipse,idea,vite,bash)](https://skillicons.dev)
-
-These are some of the technologies and tools I use:
 
 - Front-End
 
