@@ -10,13 +10,14 @@
 
 These are some of the technologies and tools I use:
 
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,jquery,styledcomponents,bootstrap,react)](https://skillicons.dev)
+
 - Tools and Plataforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=postman,git,docker,bash,vite,figma,linux,eclipse,idea)](https://skillicons.dev)
 
-- Front-End
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,jquery,styledcomponents,bootstrap,react)](https://skillicons.dev)
 
 - Back-End
 
