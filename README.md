@@ -21,7 +21,7 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,spring,hibernate,java,python,flask,nest,postgres,sqlite,jest,prisma,django)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,spring,hibernate,java,python,flask,django,nest,postgres,sqlite,jest,prisma)](https://skillicons.dev)
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
 ### 📈 My Statistics
