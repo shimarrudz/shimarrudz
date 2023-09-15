@@ -26,6 +26,9 @@ These are some of the technologies and tools I use:
 
 ### 📈 My Statistics
 
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
 
 
 ## Contact Me
