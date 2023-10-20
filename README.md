@@ -12,16 +12,16 @@ These are some of the technologies and tools I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,jquery,styledcomponents,tailwind,bootstrap,react)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,androidstudio,azure,docker,postman,git,bash,vite,figma,linux,eclipse,idea,githubactions,kafka)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,androidstudio,azure,docker,postman,git,figma,linux,eclipse,idea,githubactions,kafka)](https://skillicons.dev)
 
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,spring,hibernate,java,python,flask,django,jest,prisma,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,spring,hibernate,java,python,django,jest,prisma,postgres)](https://skillicons.dev)
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
 ### 📈 My Statistics
