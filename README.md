@@ -23,8 +23,7 @@ These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,spring,hibernate,java,python,django,jest,prisma,postgres)](https://skillicons.dev)
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-<a href="
-https://avatars.slack-edge.com/2022-06-02/3611814361970_f6a28959c2e7258660ea_512.png" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://avatars.slack-edge.com/2022-06-02/3611814361970_f6a28959c2e7258660ea_512.png" alt="oracle" width="40" height="40"/></a>
 ### 📈 My Statistics
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
