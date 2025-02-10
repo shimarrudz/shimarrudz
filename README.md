@@ -11,7 +11,7 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,java,spring,python,django,flask,dotnet,c#,spring,hibernate,java,python,jest,prisma,postgres,mongodb)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=dotnet,c#,javascript,typescript,nodejs,express,nest,java,spring,hibernate,python,django,flask,pytorch,jest,prisma)](https://skillicons.dev)
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
 - Front-End/App
@@ -21,10 +21,13 @@ These are some of the technologies and tools I use:
 
 - Cloud & Observability
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions)](https://skillicons.dev)</a>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions)](https://skillicons.dev)
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/grafana_icon_130916.png" alt="grafana" width="50" height="50"/></a>
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://imgix.datadoghq.com//img/about/presskit/DDlogo.jpg?dpr=2&auto=format" alt="datadog" width="45" height="45"/></a>
 
+- Database
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=postgres,postgres,mongodb,mysql,sqlite,redis)](https://skillicons.dev)
 
 - AI & LLMs Engineering
 
