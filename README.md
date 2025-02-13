@@ -11,7 +11,7 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=dotnet,c#,javascript,typescript,nodejs,express,nest,java,spring,hibernate,python,django,flask,pytorch,jest,prisma)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=dotnet,c#,js,ts,nodejs,express,nest,java,spring,hibernate,python,django,flask,pytorch,jest,prisma)](https://skillicons.dev)
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
 - Front-End/App
