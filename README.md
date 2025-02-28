@@ -22,8 +22,8 @@ These are some of the technologies and tools I use:
 - Cloud & Observability
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions)](https://skillicons.dev)</a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/grafana_icon_130916.png" alt="grafana" width="50" height="50"/></a>
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://imgix.datadoghq.com//img/about/presskit/DDlogo.jpg?dpr=2&auto=format" alt="datadog" width="45" height="45"/></a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/grafana_icon_130916.png" alt="grafana" width="45" height="45"/></a>
 
 
 - AI & LLMs Engineering
