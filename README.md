@@ -21,7 +21,7 @@ These are some of the technologies and tools I use:
 
 - Cloud
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,kubernates)](https://skillicons.dev)</a>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions)](https://skillicons.dev)</a>
 
 - AI & LLMs Engineering
 
