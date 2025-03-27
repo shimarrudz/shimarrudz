@@ -22,7 +22,7 @@ These are some of the technologies and tools I use:
 - Cloud & Observability
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions)](https://skillicons.dev)</a>
-<a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://imgix.datadoghq.com//img/about/presskit/DDlogo.jpg?dpr=2&auto=format" alt="datadog" width="40" height="40"/></a>
+<a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://imgix.datadoghq.com//img/about/presskit/DDlogo.jpg?dpr=2&auto=format" alt="datadog" width="50" height="50"/></a>
 
 
 - AI & LLMs Engineering
