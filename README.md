@@ -12,7 +12,7 @@ These are some of the technologies and tools I use:
 - Front-End/App
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react,nextjs,angular,kotlin,androidstudio)](https://skillicons.dev)
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png" alt="react native" width="50" height="50"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="50" height="50"/></a>
 
 - Tools and Plataforms
 
