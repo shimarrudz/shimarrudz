@@ -4,19 +4,24 @@
 
 These are some of the technologies and tools I use:
 
-- Front-End
+- Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react,angular)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,java,spring,python,django,flask,dotnet,c#,spring,hibernate,java,python,jest,prisma,postgres,mongodb)](https://skillicons.dev)
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+
+- Front-End/App
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react,nextjs,angular,kotlin,androidstudio)](https://skillicons.dev)
+
+- Cloud
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,kubernates)](https://skillicons.dev)</a>
+
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,androidstudio,azure,docker,postman,git,figma,linux,eclipse,idea,githubactions,kafka)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=postman,git,figma,linux,eclipse,rider,idea,pycharm,kafka,rabbitmq,prometheus,notion)](https://skillicons.dev)
 <a href="https://newrelic.com/lp/developersignup?utm_medium=cpc&utm_source=google&utm_campaign=EVER-GREEN_BRAND_SEARCH_BRAND_AMER_LATAM_EN&utm_network=g&utm_keyword=new%20relic&utm_device=c&_bt=665617620689&_bm=e&_bn=g&cq_cmp=12566779323&cq_con=119636858796&cq_plac=&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEt74dr57Z9yEINJ2xnOwOoR3ntdMBRlkw0HPAKVV-WjvdWcA1QcsSRoCNbkQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://avatars.slack-edge.com/2022-06-02/3611814361970_f6a28959c2e7258660ea_512.png" alt="new relic" width="50" height="50"/></a>
-
-- Back-End
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,java,spring,python,django,flask,dotnet,c#,spring,hibernate,java,python,django,jest,prisma,postgres,mongodb)](https://skillicons.dev)
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
 ## 📞 Contact Me:
 <div align="center"> 
