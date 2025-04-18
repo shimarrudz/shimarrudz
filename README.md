@@ -6,7 +6,7 @@ These are some of the technologies and tools I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react,angular)](https://skillicons.dev)
 
 - Tools and Plataforms
 
