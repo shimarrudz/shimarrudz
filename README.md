@@ -1,12 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hey!+My+name+is+Victor+Shimada;I'm+22+years+old;I+am+from+Brazil,+SP;Full-stack+developer;Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shimarrudz&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9030bb&text_color=9400D3&bg_color=0d1117" alt="Victor Shimada Github Stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimarrudz&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0d1117" />
-</div>
-
 ## :computer: Technologies:
 
 These are some of the technologies and tools I use:
