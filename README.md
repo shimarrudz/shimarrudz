@@ -29,4 +29,3 @@ These are some of the technologies and tools I use:
 <div align="center">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shimarrudz}/count.svg" /></p> 
 <br></div>
-
