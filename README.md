@@ -26,9 +26,7 @@ These are some of the technologies and tools I use:
 - AI & LLMs Engineering
 
 <a href="https://windsurf.com/editor" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/6kLNxjLW3OREYdL7Y_sAzCuolXAmQkjJZVTCAch3Q_-hGZ2049wD2PSTFTfi9M8Iqh0PpxgChjU=s48-c-k-c0x00ffffff-no-rj" alt="windsurf" width="40" height="40"/></a>
-
 <a href="https" target="_blank" rel="noreferrer"> <img src="https://prod-findmyaitool.s3.us-east-1.amazonaws.com/images/ai-tool/logo/Devin%20AI-1723798185028" alt="devin ai" width="40" height="40"/></a>
-
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://socialmarketing90.com/wp-content/uploads/2023/12/OpenAI-Insta-Version-SVG-8.svg" alt="openai" width="40" height="40"/></a>
 
 
