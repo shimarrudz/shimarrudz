@@ -1,4 +1,4 @@
-![3D GitHub Profile Night Green](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ## :computer: Technologies:
 
