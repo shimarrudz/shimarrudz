@@ -1,5 +1,3 @@
-### 🧊 Meu gráfico de contribuições em 3D (tema: Night Green)
-
 ![3D GitHub Profile Night Green](./profile-3d-contrib/profile-night-green.svg)
 
 ## :computer: Technologies:
