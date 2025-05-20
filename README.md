@@ -6,7 +6,7 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,nodejs,express,nest,java,spring,hibernate,python,django,flask,pytorch,jest,prisma,dotnet,c#)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,nodejs,express,nest,java,spring,hibernate,python,django,flask,pytorch,jest,prisma,dotnet,c#)](https://skillicons.dev) 
 
 - Tools and Plataforms
 
