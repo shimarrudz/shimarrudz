@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 ## :computer: Technologies:
 
@@ -42,8 +42,3 @@ These are some of the technologies and tools I use:
   <a href = "mailto:vic.shima.vss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-shimada/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-## 🤖 Visitors Account:
-<div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shimarrudz}/count.svg" /></p> 
-<br></div>
